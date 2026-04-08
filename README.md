@@ -5,9 +5,9 @@
 ## Current Focus
 **Локальная развёртка и дообучение Qwen2.5 через Unsloth**  
 
-Нейросеть получает на вход:
-- 📸 Скриншоты экранных форм  
-- 📄 Текст требований с логикой элементов  
+Нейросеть получает на вход: <br>
+- 📸 Скриншоты экранных форм <br>
+- 📄 Текст требований с логикой элементов <br>
 
 На выходе — **автотест** (Python + Pytest/Selenium), полностью покрывающий форму. Развёртывание через Docker + все Python-библиотеки внутри контейнера.
 
@@ -15,12 +15,12 @@
 
 ## Technical Stack
 
-**AI / ML** - Unsloth, Qwen2.5, Ollama, Computer Vision (OpenCV) 
-**Автотесты** - Python (Pytest, Requests), Java (JUnit, TestNG), Selenium
-**API** - REST, Postman, cURL, devtools, анализ запросов/ответов
-**Контейнеризация** - Docker
-**ОС** - Linux (Arch/Ubuntu/Astra???)
-**ИИ-агенты** - OpenClaw, LLM-агенты для автоматизации
+**AI / ML** - Unsloth, Qwen2.5, Ollama, Computer Vision (OpenCV) <br>
+**Автотесты** - Python (Pytest, Requests), Java (JUnit, TestNG), Selenium <br>
+**API** - REST, Postman, cURL, devtools, анализ запросов/ответов <br>
+**Контейнеризация** - Docker <br>
+**ОС** - Linux (Arch/Ubuntu/Astra???) <br>
+**ИИ-агенты** - OpenClaw, LLM-агенты для автоматизации <br>
 
 ---
 
@@ -28,8 +28,8 @@
 
 > `$ ls ~/sandbox/`
 
-**Сайт с мини‑игрой** - HTML, CSS, JavaScript, уникальная игровая логика (с нуля)
-**Telegram‑бот** - Java (TelegramBots API), полностью кастомная логика, кастомные функции
+**Сайт с мини‑игрой** - HTML, CSS, JavaScript, уникальная игровая логика (с нуля) <br>
+**Telegram‑бот** - Java (TelegramBots API), полностью кастомная логика, кастомные функции <br>
 
 ---
 
