@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=%3E+Welcome+2+terminal;%3E+QA/AQA+%2B+AI+Engineer;%3E+Just+doin+my+job" alt="Typing SVG" />
 </h1>
----
 
 ## Current Focus
 **Локальная развёртка и дообучение Qwen2.5 через Unsloth**  
