@@ -3,24 +3,24 @@
 </h1>
 
 ## Current Focus
-**Локальная развёртка и дообучение Qwen2.5 через Unsloth**  
+**Running and fine-tuning Qwen2.5 locally using Unsloth**  
 
-Нейросеть получает на вход: <br>
-- 📸 Скриншоты экранных форм <br>
-- 📄 Текст требований с логикой элементов <br>
+Neural network input: <br>
+- Screenshots of the UI <br>
+- Requirements text with form logic <br>
 
-На выходе — **автотест** (Python + Pytest/Selenium), полностью покрывающий форму. Развёртывание через Docker + все Python-библиотеки внутри контейнера.
+Output — **autotest** (Python + Pytest/Selenium) with full form coverage. Deployment via Docker with all Python libraries pre-installed in the container..
 
 ---
 
 ## Technical Stack
 
 **AI / ML** - Unsloth, Qwen2.5, Ollama, Computer Vision (OpenCV) <br>
-**Автотесты** - Python (Pytest, Requests), Java (JUnit, TestNG), Selenium <br>
-**API** - REST, Postman, cURL, devtools, анализ запросов/ответов <br>
-**Контейнеризация** - Docker <br>
-**ОС** - Linux (Arch/Ubuntu/Astra???) <br>
-**ИИ-агенты** - OpenClaw, LLM-агенты для автоматизации <br>
+**Autotests** - Python (Pytest, Requests), Java (JUnit, TestNG), Selenium <br>
+**API** - REST, Postman, cURL, devtools, request/response analysis <br>
+**Containerization** - Docker <br>
+**OS** - Linux (Arch/Ubuntu/Astra???) <br>
+**AI-agents** - OpenClaw, LLM-automation agents <br>
 
 ---
 
@@ -28,8 +28,8 @@
 
 > `$ ls ~/sandbox/`
 
-**Сайт с мини‑игрой** - HTML, CSS, JavaScript, уникальная игровая логика (с нуля) <br>
-**Telegram‑бот** - Java (TelegramBots API), полностью кастомная логика, кастомные функции <br>
+**Website with a mini-game** - HTML, CSS, JavaScript, unique game logic (from scratch) <br>
+**Telegram‑bot** - Java (TelegramBots API), fully custom logic, custom functions <br>
 
 ---
 
@@ -40,9 +40,10 @@
 middle_qa_automatizer
 
 > cat skills.txt
-- Веб-тестирование (UI + API + БД)
-- Написание тестовых сценариев для автотестов
-- DevTools (профилировка, отладка, network)
-- Post/get запросы, перехват трафика
-- Компьютерное зрение в тестировании (сравнение скриншотов, OCR)
-- Функциональное тестирование
+- Web-testing (UI + API + DB)
+- Developing test scripts for autotests
+- DevTools (Profiling, debugging and networking)
+- Post/get requests, packet sniffing
+- Dockering (Versioning, containerization, environment creation and setup)
+- Computer vision in testing (Visual regression/screenshot comparison, OCR)
+- Functional testing
