@@ -3,7 +3,7 @@
 </h1>
 
 ## Current Focus
-**Running and fine-tuning Qwen2.5 locally using Unsloth**  
+**Running and fine-tuning Qwen3.5VL-9b locally using Unsloth**  
 
 Neural network input: <br>
 - Screenshots of the UI <br>
@@ -15,7 +15,7 @@ Output — **autotest** (Python + Pytest/Selenium) with full form coverage. Depl
 
 ## Technical Stack
 
-**AI / ML** - Unsloth, Qwen2.5, Ollama, Computer Vision (OpenCV) <br>
+**AI / ML** - Unsloth, Qwen2.5, Qwen2.5, Ollama, Computer Vision (OpenCV) <br>
 **Autotests** - Python (Pytest, Requests), Java (JUnit, TestNG), Selenium <br>
 **API** - REST, Postman, cURL, devtools, request/response analysis <br>
 **Containerization** - Docker <br>
