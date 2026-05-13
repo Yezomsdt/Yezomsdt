@@ -8,6 +8,7 @@
 Neural network input: <br>
 - Screenshots of the UI <br>
 - Requirements text with form logic <br>
+- А ready automation test in my domain-specific programming language <br>
 
 Output — **autotest** (Python + Pytest/Selenium) with full form coverage. Deployment via Docker with all Python libraries pre-installed in the container..
 
